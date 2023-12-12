@@ -2,6 +2,7 @@
 
 ### Requirements:
 - Python (Latest) (https://python.org)
+- Discord Client (Latest) (https://discord.com)
 
 ---
 
