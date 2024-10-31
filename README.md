@@ -1,5 +1,7 @@
 ## Discord Rich Presence for Plex, made in Python
 
+## NOTE: A complete rewrite will be coming soon.
+
 ### Requirements:
 - Python (Latest) (https://python.org)
 - Discord Client (Latest) (https://discord.com)
